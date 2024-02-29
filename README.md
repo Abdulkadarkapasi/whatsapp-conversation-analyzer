@@ -18,7 +18,7 @@ WhatsApp Conversation Analyzer is a powerful tool built with Streamlit, enabling
 5. **Interact and Customize**: Interact with the visualizations and customize the analysis based on your preferences.
 
 ## Deployment
-The WhatsApp Conversation Analyzer is deployed on Streamlit Cloud. You can access the live app [here]([your-streamlit-cloud-app-link](https://whatsapp-conversation-analyzer-kssloi4appmhaghn6rntnth.streamlit.app/)).
+The WhatsApp Conversation Analyzer is deployed on Streamlit Cloud. You can access the live app [here](https://whatsapp-conversation-analyzer-kssloi4appmhaghn6rntnth.streamlit.app/)
 
 ## Setup
 To run the WhatsApp Conversation Analyzer locally, follow these steps:
