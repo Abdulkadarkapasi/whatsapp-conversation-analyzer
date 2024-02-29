@@ -1,0 +1,6 @@
+streamlit
+seaborn
+matplotlib
+plotly
+numpy
+wordcloud
